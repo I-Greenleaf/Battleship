@@ -1,2 +1,3 @@
 # Battleship
-A Java text-based recreation of the classic boardgame "Battleship."
+
+**Battleship** is a text-based recreation of the classic board game "Battleship."
